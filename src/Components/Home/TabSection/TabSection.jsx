@@ -17,7 +17,7 @@ const TabSection = () => {
     // console.log(category);
 
     const handleTabClick = (id) => {
-        setActiveTab();
+        setActiveTab(id);
     };
 
     return (
