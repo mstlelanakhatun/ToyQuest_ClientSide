@@ -18,7 +18,7 @@ const HappyCustomer = () => {
                             <img alt="testimonial" className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100" src="https://scontent.fdac137-1.fna.fbcdn.net/v/t39.30808-6/338309897_743868107189328_7623792166348866460_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=59mcxEyQvL8AX-PVYUq&_nc_ht=scontent.fdac137-1.fna&oh=00_AfDYb2u5I5rZN9obtv4cKWUK9VGO-YRJ2bdP9jh_4egZhQ&oe=6470D949" />
                             <p className="leading-relaxed">ToyQuest is a game-changer for toy car collectors! The quality of their products is outstanding, with incredible attention to detail. The customer service is fantastic, and the team goes above and beyond to ensure customer satisfaction. ToyQuest is my go-to destination for all my toy car needs. Highly impressed and highly recommended!</p>
                             <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
-                            <h2 className="">Ahmed Uddin Sajon</h2>
+                            <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">Ahmed Uddin Sajon</h2>
                         </div>
                     </div>
                     <div className="lg:w-1/3 lg:mb-0 mb-6 p-4" data-aos="fade-up" data-aos-duration="2000">
