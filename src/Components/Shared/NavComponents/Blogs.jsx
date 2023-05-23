@@ -22,6 +22,7 @@ Regarding client-side storage, it is typically advised to put access tokens in H
             <div className="mb-8">
                 <h1 className="text-4xl font-semibold">3. What is express js? What is Nest JS?</h1>
                 <p className='my-3'>
+                Express js: Express is a node js web application framework that provides broad features for building web and mobile applications. A single page, multipage, or hybrid web application can be created with it. It is a layer added to Node js that aids in managing servers and routes.
                 </p>
             </div>
             <div className="mb-8">
