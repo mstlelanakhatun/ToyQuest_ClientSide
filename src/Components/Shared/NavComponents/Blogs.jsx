@@ -16,7 +16,7 @@ Regarding client-side storage, it is typically advised to put access tokens in H
             <div className="mb-8">
                 <h1 className="text-4xl font-semibold">2. Compare SQL and NoSQL databases?</h1>
                 <p className='my-3'>
-
+                SQL databases are vertically scalable, while NoSQL databases are horizontally scalable. SQL databases are table-based, while NoSQL databases are document, key-value, graph, or wide-column stores. SQL databases are better for multi-row transactions, while NoSQL is better for unstructured data like documents or JSON.
                 </p>
             </div>
             <div className="mb-8">
