@@ -30,7 +30,7 @@ Regarding client-side storage, it is typically advised to put access tokens in H
             <div className="mb-8">
                 <h1 className="text-4xl font-semibold">4. What is MongoDB aggregate and how does it work?</h1>
                 <p className='my-3'>
-                MongoDB's aggregate is a framework that allows you to perform data aggregation operations on your MongoDB collections.<br/> It operates by applying different operations to the data at each stage of a pipeline. People may gradually alter and analyze their data because the outcome of one stage becomes the input for the next. Aggregate is an effective tool for doing sophisticated data analysis activities inside of the database since it allows operations like filtering, grouping, sorting, and computing aggregations.
+                MongoDB's aggregate is a framework that allows you to perform data aggregation operations on your MongoDB collections. It operates by applying different operations to the data at each stage of a pipeline. People may gradually alter and analyze their data because the outcome of one stage becomes the input for the next. Aggregate is an effective tool for doing sophisticated data analysis activities inside of the database since it allows operations like filtering, grouping, sorting, and computing aggregations.
                 </p>
             </div>
         </div>
